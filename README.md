@@ -43,7 +43,7 @@ https://relay.toot.io/inbox
 ## ✅🚫 relays that are restricted with allowlists
 
 ```
-https://relay.fauxzen.com/inbox | English | Contact @shelby@fauzen.com prior to joining
+https://relay.fauxzen.com/inbox | English | Contact @shelby@fauxzen.com prior to joining
 ```
 
 ## ❔ relays that, maybe? work
