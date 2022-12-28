@@ -37,6 +37,7 @@ https://relay.wig.gl/inbox
 https://relay.gruenehoelle.nl/inbox
 https://relay.sigmundvoid.net/inbox
 https://relay.national-defence.network/inbox
+https://relay.toot.io/inbox
 ```
 
 ## ✅🚫 relays that are restricted with allowlists
